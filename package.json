@@ -1,0 +1,17 @@
+{
+  "name": "routeforge",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A TypeScript-first client-side routing core.",
+  "packageManager": "pnpm@10.17.1",
+  "scripts": {
+    "build": "tsc -b",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc -b --pretty"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@routeforge/example-basic",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module"
+}
